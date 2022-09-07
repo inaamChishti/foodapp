@@ -1,0 +1,1 @@
+class Listawesomefoodre2ItemModel { }

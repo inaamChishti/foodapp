@@ -1,0 +1,1 @@
+class WelcomeV2LoginModel { }
